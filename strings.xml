@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="service_desc">Sperrt bestimmte Apps und erlaubt in WhatsApp nur ausgewählte Chats.</string>
+</resources>
